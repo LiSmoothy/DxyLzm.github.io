@@ -7,13 +7,13 @@ title: DxyLzm
 subtitle: ''
 description: ''
 keywords:
-author: Lzm
-language: zh-CN
+author: LZM
+language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url:  https://DxyLzm.github.io
+url: https://DxyLzm.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
