@@ -7,13 +7,13 @@ title: DxyLzm
 subtitle: ''
 description: ''
 keywords:
-author: LZM
-language: en
+author: Lzm
+language: zh-CN 
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://DxyLzm.github.io
+url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -93,11 +93,10 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jekyll-theme-cayman
+theme: Butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repository: https://github.com/DxyLzm/DxyLzm.github.io
-  branch: master
+  type: ''
+  
